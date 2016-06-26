@@ -1,0 +1,1 @@
+This folder is to contain savedvariables that are to be symbolically linked into every accounts' SavedVariables folders.

@@ -1,0 +1,2 @@
+
+kgPanelsDB = nil

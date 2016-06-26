@@ -1,0 +1,122 @@
+
+FAUXMAZZLE = {
+	["INITIALIZED6.2"] = true,
+	["HUD"] = {
+		["FontSize"] = 16,
+		["RangeFontSize"] = 17,
+		["Scale"] = 0.7,
+		["BGAlphaOOC"] = 0,
+		["UpdateSpeed"] = 25,
+		["HealthAsPercent"] = true,
+		["Offset"] = 125,
+		["ManaAsPercent"] = true,
+		["DMBFontSize"] = 16,
+		["Alpha"] = 0.8,
+		["FontAlpha"] = 0.7,
+		["Font"] = "Interface\\AddOns\\FauxMazzle\\Fonts\\DUF_Font1.ttf",
+		["BGAlpha"] = 0.35,
+		["RangeFont"] = "Interface\\AddOns\\FauxMazzle\\Fonts\\DUF_Font1.ttf",
+		["AlphaOOC"] = 0,
+		["RangeFontAlpha"] = 0.8,
+		["Colours"] = {
+			["Target"] = {
+				["HB"] = {
+					["r"] = 1,
+					["g"] = 0,
+					["b"] = 1,
+				},
+				["MB"] = {
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 1,
+				},
+				["BG"] = {
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 1,
+				},
+			},
+			["Player"] = {
+				["HB"] = {
+					["r"] = 1,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["MB"] = {
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 1,
+				},
+				["BG"] = {
+					["r"] = 1,
+					["g"] = 1,
+					["b"] = 1,
+				},
+				["DMB"] = {
+					["r"] = 0.6,
+					["g"] = 0.6,
+					["b"] = 0.6,
+				},
+			},
+		},
+	},
+}
+FAUXMAZZLE_Options = {
+	["Dart"] = {
+		["xcalcclick"] = false,
+		["omenclick"] = false,
+		["recountclick"] = false,
+		["flash"] = false,
+		["tinypadclick"] = false,
+		["skin"] = "FauxMazzle_Skin_Fizzlemizz_Dungeon",
+		["colour"] = true,
+	},
+	["Addons"] = {
+		["recount"] = false,
+		["xcalc"] = false,
+		["tiptac"] = false,
+		["capping"] = false,
+		["duf"] = false,
+		["prat"] = false,
+		["moveanything"] = false,
+		["aloft"] = false,
+		["tomtom"] = false,
+		["dart"] = false,
+		["dbm"] = false,
+		["sct"] = false,
+		["smartbuff"] = false,
+		["xloot"] = false,
+		["mapster"] = false,
+		["quartz"] = false,
+		["raidframes"] = false,
+		["dominos"] = false,
+		["hud"] = true,
+		["hitsmode"] = false,
+		["trinketmenu"] = false,
+		["autobar"] = false,
+		["tinypad"] = false,
+		["omen"] = false,
+		["masque"] = false,
+	},
+	["xOffset"] = 545.000000889034,
+	["Chat"] = {
+		["tradewhisper"] = false,
+		["groupwhisper"] = true,
+		["tradesay"] = false,
+		["font"] = 1,
+		["groupsay"] = false,
+		["guildwhisper"] = true,
+		["guildsay"] = false,
+	},
+	["Dominos"] = {
+		["numbuttons"] = 14,
+	},
+	["yOffset"] = 378.000156606778,
+	["RaidDefaults"] = {
+	},
+	["Resolution"] = "1920x1080",
+	["Duf"] = {
+		["bossvertical"] = false,
+	},
+}
+FAUXMAZZLE_Overide = nil
